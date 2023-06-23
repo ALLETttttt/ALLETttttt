@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1200" height="350" src="https://media2.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=6c09b952mjosubchx5hb8p75dlu7ucvtlgago1khwbd5pnbv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<img align="center" alt="coding" width="1200" height="250" src="https://media2.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=6c09b952mjosubchx5hb8p75dlu7ucvtlgago1khwbd5pnbv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 
 <h1 align="center">Hi 👋, I'm Bakdaulet</h1>
