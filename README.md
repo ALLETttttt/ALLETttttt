@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alletttttt&label=Profile%20views&color=0e75b6&style=flat" alt="alletttttt" /> </p>
 
-- 🔭 I’m currently working on **ewfewf**
+- 🔭 I’m currently working on **...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ALLETttttt?tab=repositories](https://github.com/ALLETttttt?tab=repositories)
 
 - 📫 How to reach me **bakdauletcoutinho@gmail.com**
 
-- 📄 Know about my experiences [here](here)
+- 📄 Know about my experiences ...
 
 - ⚡ Fun fact **I think I am funny**
 
