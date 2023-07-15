@@ -1,9 +1,9 @@
 <img align="center" alt="coding" width="1200" height="250" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
 
 
-# <h1 align="center">Hi 👋, I'm Bakdaulet</h1>
+ <h1 align="center">Hi 👋, I'm Bakdaulet</h1>
 
-# <h1 align="center">Interested in Software Engineering</h1>
+ <h1 align="center">Interested in Software Engineering</h1>
 <img align="right" alt="coding" width="400" height="250" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
 
