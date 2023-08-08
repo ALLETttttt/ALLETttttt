@@ -1,6 +1,7 @@
 <img align="center" alt="coding" width="1200" height="250" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
 
 
+
  <h1 align="center">Hi 👋, I'm Bakdaulet</h1>
 
  <h1 align="center">Interested in Software Engineering</h1>
