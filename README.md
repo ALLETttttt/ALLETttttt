@@ -1,11 +1,6 @@
 <h2 align="left">Salem 👋</h2>
 
-###
 
-<div align="center">
-</div>
-
-###
 
 <br clear="both">
 
