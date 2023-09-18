@@ -11,7 +11,7 @@
 - 🇰🇿 Future SWE From KZ
 
 
-<img src="https://media3.giphy.com/media/l3E6IlIx5f9nVjd84/200w.gif?cid=6c09b952zf4dzd3hodjucqo1xo3922y1f0qg4a2smal58t89&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
+<img src="https://media3.giphy.com/media/l3E6IlIx5f9nVjd84/200w.gif?cid=6c09b952zf4dzd3hodjucqo1xo3922y1f0qg4a2smal58t89&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300"/>
 
 
 in a progress to rebuild myself, compile life, implement potential & generate success!
